@@ -1,6 +1,14 @@
 // TODO: write your code here
-import sum from './basic';
+import sortObjectProperties from './sortObject';
 
-console.log('worked');
+const obj = {
+  name: 'мечник',
+  health: 10,
+  level: 2,
+  attack: 80,
+  defence: 40,
+};
 
-console.log(sum([1, 2]));
+const arr = ['name', 'level'];
+
+console.log(sortObjectProperties(obj, arr));
