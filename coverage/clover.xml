@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1576935578571" clover="3.2.0">
+  <project timestamp="1576935578572" name="All files">
+    <metrics statements="11" coveredstatements="11" conditionals="2" coveredconditionals="2" methods="2" coveredmethods="2" elements="15" coveredelements="15" complexity="0" loc="11" ncloc="11" packages="1" files="1" classes="1"/>
+    <file name="sortObject.js" path="C:\Users\Vladimir\Downloads\Netology\Домашние задания продвинутый Javascript\Object properties\1st task\src\js\sortObject.js">
+      <metrics statements="11" coveredstatements="11" conditionals="2" coveredconditionals="2" methods="2" coveredmethods="2"/>
+      <line num="2" count="1" type="stmt"/>
+      <line num="4" count="1" type="stmt"/>
+      <line num="7" count="9" type="cond" truecount="2" falsecount="0"/>
+      <line num="8" count="3" type="stmt"/>
+      <line num="10" count="6" type="stmt"/>
+      <line num="13" count="1" type="stmt"/>
+      <line num="14" count="2" type="stmt"/>
+      <line num="17" count="1" type="stmt"/>
+      <line num="19" count="1" type="stmt"/>
+      <line num="20" count="5" type="stmt"/>
+      <line num="22" count="1" type="stmt"/>
+    </file>
+  </project>
+</coverage>
